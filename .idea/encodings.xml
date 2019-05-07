@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../CoreJavaTeach/src/tech/aistar/day01/HelloWorld.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../CoreJavaTeach/src/tech/aistar/day02/ClcDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../CoreJavaTeach/src/tech/aistar/day15/charset/abc.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../CoreJavaTeach/src/tech/aistar/util/TestString.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
